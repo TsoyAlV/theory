@@ -1,5 +1,5 @@
 # 1. Схема AБ-тестирования
-```python
+```
 АБ разбиение (Б ~ 1%) </br>
 Ждем 2 недели </br>
 Вычисляем ключевые метрики </br>
@@ -11,6 +11,7 @@ $ΔX = \overline{X}_Б - \overline{X}_А$ </br>
 - существенность (положительный или негативный эффект) </br>
 Принимаем решение </br>
 Можем провести обратный АБ-тест - раскатить большему числу пользователей Б, а меньшему - А </br>
+asdgkas djglaskd g;asdkj askdg;lasjdg;lkas jdg kjasd;lkg jasdg asdgkas djglaskd g;asdkj askdg;lasjdg;lkas jdg kjasd;lkg jasdgasdgkas djglaskd g;asdkj askdg;lasjdg;lkas jdg kjasd;lkg jasdgasdgkas djglaskd g;asdkj askdg;lasjdg;lkas jdg kjasd;lkg jasdgasdgkas djglaskd g;asdkj askdg;lasjdg;lkas jdg kjasd;lkg jasdgasdgkas djglaskd g;asdkj askdg;lasjdg;lkas jdg kjasd;lkg jasdgasdgkas djglaskd g;asdkj askdg;lasjdg;lkas jdg kjasd;lkg jasdg
 ```
 ## Типичные метрики
 * Уникальные пользователи за сессию
